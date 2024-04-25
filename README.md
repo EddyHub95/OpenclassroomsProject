@@ -2,7 +2,6 @@ Formation OpenClassRooms
 
 Projet n°4 : Améliorez l'interface d'un site mobile avec des animations CSS
 
-
 Consignes en terme Technologie
 
 ● Le développement doit se faire en CSS avec Sass, sans JavaScript.
